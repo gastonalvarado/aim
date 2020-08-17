@@ -1,2 +1,0 @@
-# aim
-AIM UT class
